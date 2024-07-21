@@ -1,0 +1,48 @@
+body{
+	margin:0;
+}
+	.container{
+	width:1345px;
+	height:630px;
+	border:1px solid black;
+}
+.header{
+	width:1340px;
+	height:55px;
+	background-color:#f1f1f1;
+	border:1px solid black;
+}
+.h1,.h2,.h3{
+	width:444px;
+	height:55px;
+	border:1px solid black;
+	float:left;
+}
+.menu{
+	width:1345px;
+	height:35px;
+	border:1px solid block;
+	background-color:gray;
+}
+.m1,.m2,.m3,.m4{
+	width:330px;
+	height:25px;
+	border:1px solid black;
+	float:left;
+}
+.content{
+	width:1345px;
+	height:500px;
+	border:1px solid black;
+}
+.content>div{
+	height:500px;
+	border:1px solid black;
+	float:left;
+}
+.c1{
+	width:300px;
+}
+.c2{
+	width:800px:
+}
